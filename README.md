@@ -12,4 +12,4 @@ tema e título, roteiro, plano de cenas, narração, revisão e entrega.
 A skill foi escrita para o nosso próprio projeto (three.js + Remotion), então os caminhos de pastas e scripts citados
 nela são os nossos — use como guia e adapte ao seu.
 
-Vídeo: "Fiz 475 Mil Views Num Canal Novo Usando Só o Claude" — canal Little Legends BR.
+Vídeo: ["Fiz 475 Mil Views Num Canal Novo Usando Só o Claude"](https://youtu.be/u28gCvIHu2U) — canal Little Legends BR.
